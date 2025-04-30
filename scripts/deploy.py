@@ -91,7 +91,7 @@ def main():
             "_pool": swap,
             "_curve": swap,
         }
-        deployment_args = [args[i["name"]] for i in abi] + [_tx_params()]
+        deployment_args = [args[i["EthereumX"]] for i in abi] + [_tx_params()]
 
         zap_deployer.deploy(*deployment_args)
 
