@@ -10,8 +10,8 @@ DEPLOYER = accounts.add()
 REQUIRED_CONFIRMATIONS = 1
 
 # deployment settings
-# most settings are taken from `contracts/pools/{POOL_NAME}/pooldata.json`
-POOL_NAME = ""
+# most settings are taken from `contracts/pools/{ethx}/pooldata.json`
+POOL_NAME = "ethx"
 
 # temporary owner address
 POOL_OWNER = "0xedf2c58e16cc606da1977e79e1e69e79c54fe242"
