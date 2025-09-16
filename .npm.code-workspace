@@ -4,5 +4,25 @@
 			"path": "VersoriumX-root/"
 		}
 	],
-	"settings": {}
+	"settings": {
+        // VS Code specific settings for a better Solidity/Hardhat development experience
+        "solidity.compileUsingRemoteVersion": "v0.8.17+commit.8df45f5f", // Recommended compiler version
+        "solidity.defaultCompiler": "remote",
+        "solidity.enableLocalNodeCompiler": false,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode", // Prettier for consistent formatting
+        "solidity.formatter": "prettier",
+        "files.exclude": {
+            "**/.git": true,
+            "**/.DS_Store": true,
+            "**/node_modules": true,
+            "**/cache": true,
+            "**/artifacts": true
+        },
+        "search.exclude": {
+            "**/node_modules": true,
+            "**/cache": true,
+            "**/artifacts": true
+        }
+    }
 }
