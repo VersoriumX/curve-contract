@@ -32,6 +32,6 @@
         "@ethersproject/abstract-provider": "^5.8.0",
         "@ethersproject/abstract-signer": "^5.8.0",
         "ethereumx": "^0.1.0",
-        "tailwindcss": "^4.1.8"
+        "tailwindcss": "^4.1.13"
     }
 }
