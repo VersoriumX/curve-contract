@@ -33,6 +33,9 @@
         "@ethersproject/abstract-signer": "^5.8.0",
         "ethereumx": "^0.1.0",
         "ethers": "^6.15.0",
+        "hardhat": "^3.0.6",
+        "metamask": "^0.0.1-security",
+        "optimism": "^0.18.1",
         "tailwindcss": "^4.1.13"
     }
 }
