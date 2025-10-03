@@ -2,20 +2,16 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+To report a security vulnerability, please send an email to [security@versoriumx.com](mailto:security@versoriumx.com) with the following information:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+-   A clear description of the vulnerability
+-   Steps to reproduce the vulnerability
+-   Any relevant code snippets or logs
+
+You can expect a response within 24-48 hours. If the vulnerability is accepted, we will work with you to patch it and release an update as soon as possible.

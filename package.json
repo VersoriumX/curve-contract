@@ -2,7 +2,7 @@
     "scripts": {
         "preinstall": "npm i -g ganache-cli@6.12.1"
     },
-    "name": "curve-contract",
+    "name": "@versoriumx/curve-contract",
     "version": "1.0.0",
     "description": "A versoriumX EthereumX Pool",
     "main": "index.js",
@@ -20,7 +20,7 @@
         "Sale"
     ],
     "author": "Travis Jerome Goff",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/VersoriumX/curve-contract/issues"
     },
