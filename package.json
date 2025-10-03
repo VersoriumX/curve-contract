@@ -24,5 +24,14 @@
     "bugs": {
         "url": "https://github.com/VersoriumX/curve-contract/issues"
     },
-    "homepage": "https://github.com/VersoriumX/curve-contract#readme"
+    "homepage": "https://github.com/VersoriumX/curve-contract#readme",
+    "dependencies": {
+        "@eth-optimism/contracts": "^0.6.0",
+        "@eth-optimism/core-utils": "^0.13.2",
+        "@eth-optimism/sdk": "^3.3.3",
+        "@ethersproject/abstract-provider": "^5.8.0",
+        "@ethersproject/abstract-signer": "^5.8.0",
+        "ethereumx": "^0.1.0",
+        "tailwindcss": "^4.1.8"
+    }
 }
